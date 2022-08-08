@@ -1,15 +1,5 @@
-# Slime Rancher Mod Loader #
-A completely open source mod loader and moddding framework for the game Slime Rancher
+# Slime Rancher Mod Loader - Ric's Fork #
+A Fork for [SRML](https://github.com/veesusmikelheir/SRML) with the intend to develop my own aditions and then provide pull requests.
 
-## Building ##
-SRML depends on a __publicized Assembly-CSharp.dll__ which can be obtained using CabbageCrow's [Assembly Publicizer](https://github.com/CabbageCrow/AssemblyPublicizer)
-
-Once obtained, and a publicized assembly generated, follow the **wiki** for a setup guide.
-
-## Developing with SRML ##
-N/A
-
-## Acknowledgements ##
-* CabbageCrow and his wonderful [Assembly Publicizer](https://github.com/CabbageCrow/AssemblyPublicizer)
-* The amazing [Harmony Runtime Patching Library](https://github.com/pardeike/Harmony)
-* Aidanamite and MegaPiggy for contributing a ton of code via PRs and SRMLRegistryFixes
+## Important Links
+- Check SRML's main repository [here](https://github.com/veesusmikelheir/SRML), for more information
